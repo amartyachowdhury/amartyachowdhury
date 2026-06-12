@@ -1,29 +1,27 @@
 # Amartya Chowdhury
 
-**CS student building AI-powered web apps**
+**CS student · full-stack & AI systems**
 
-Based in Toronto · B.Sc. Computer Science, Toronto Metropolitan University (Expected 2027)
+Toronto, ON · B.Sc. Computer Science, Toronto Metropolitan University (2027)
 
 ---
 
 ## About
 
-I'm a Computer Science student at Toronto Metropolitan University with a focus on full-stack development and applied AI. I enjoy building practical web applications — from intelligent productivity tools to data-driven platforms — with clean architecture and real-world use cases.
+Computer Science undergrad building full-stack web applications with applied AI. Primary stack: JavaScript/TypeScript frontends, Python/Node backends, PostgreSQL, and Docker. Interested in agent architectures, API design, and production-oriented system patterns.
 
 ---
 
 ## Currently Building
 
-**[ai-financial-agent](https://github.com/amartyachowdhury/ai-financial-agent)** — An AI-powered financial agent for investment research, combining LLM-driven reasoning with structured financial data workflows.
+**[ai-financial-agent](https://github.com/amartyachowdhury/ai-financial-agent)** — LLM agent for investment research. Tool-use orchestration over financial data APIs with structured retrieval and multi-step reasoning.
 
 ---
 
 ## Currently Learning
 
-- AI agent design patterns and tool-use orchestration
-- LLM application development and prompt engineering
-- Containerization and deployment workflows with Docker
-- Relational data modeling and query optimization with PostgreSQL
+- **Vue.js** — Composition API, reactive state, component-driven UI architecture
+- **Laravel** — MVC patterns, Eloquent ORM, routing, and REST API development
 
 ---
 
@@ -42,14 +40,14 @@ I'm a Computer Science student at Toronto Metropolitan University with a focus o
 
 ## Projects
 
-| Project | Description |
+| Project | Stack / Description |
 | --- | --- |
-| [**ai-financial-agent**](https://github.com/amartyachowdhury/ai-financial-agent) | A financial agent for investment research |
-| [**task-tide**](https://github.com/amartyachowdhury/task-tide) | A modern, intelligent task management application that combines traditional to-do functionality with AI-powered features for enhanced productivity and smart scheduling |
-| [**movie-stack**](https://github.com/amartyachowdhury/movie-stack) | A modern, full-stack movie recommendation application built with React, Flask, and industry-standard architecture patterns |
-| [**Cypress-Application**](https://github.com/amartyachowdhury/Cypress-Application) | A full-stack web application that allows citizens to report and track local issues in their community |
-| [**clothing-store-dbms**](https://github.com/amartyachowdhury/clothing-store-dbms) | Database management system for a clothing store |
-| [**100-Days-of-Code**](https://github.com/amartyachowdhury/100-Days-of-Code) | A collection of Python projects from the 100 Days of Code challenge, each with a CLI version and a web app |
+| [**ai-financial-agent**](https://github.com/amartyachowdhury/ai-financial-agent) | LLM agent for investment research and financial data analysis |
+| [**task-tide**](https://github.com/amartyachowdhury/task-tide) | AI-augmented task manager — scheduling logic, to-do CRUD, LLM-assisted productivity features |
+| [**movie-stack**](https://github.com/amartyachowdhury/movie-stack) | React + Flask recommendation engine with layered service architecture |
+| [**Cypress-Application**](https://github.com/amartyachowdhury/Cypress-Application) | Full-stack civic issue tracker — report submission, status workflows, community dashboards |
+| [**clothing-store-dbms**](https://github.com/amartyachowdhury/clothing-store-dbms) | TypeScript DBMS for inventory, orders, and relational schema management |
+| [**100-Days-of-Code**](https://github.com/amartyachowdhury/100-Days-of-Code) | Python CLI utilities and web apps from the 100 Days of Code curriculum |
 
 ---
 
