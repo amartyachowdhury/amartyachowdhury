@@ -64,12 +64,14 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 **Academic / Engineering Tools**
 
 ![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=for-the-badge)
 ![VPython](https://img.shields.io/badge/VPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
