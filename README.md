@@ -68,6 +68,8 @@ Computer Science undergrad building full-stack web applications with applied AI.
 **Academic / Engineering Tools**
 
 ![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=for-the-badge)
+![VPython](https://img.shields.io/badge/VPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
