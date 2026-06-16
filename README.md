@@ -8,7 +8,7 @@ Toronto, ON · B.Sc. Computer Science, Toronto Metropolitan University (2027)
 
 ## About
 
-Computer Science undergrad building full-stack web applications with applied AI. Primary stack: JavaScript/TypeScript frontends, Python/Node backends, PostgreSQL, and Docker. Interested in agent architectures, API design, and production-oriented system patterns.
+Computer Science undergrad building full-stack web applications with applied AI. Primary stack: JavaScript/TypeScript frontends, PHP/Laravel backends, PostgreSQL, and Docker. Interested in agent architectures, API design, and production-oriented system patterns.
 
 ---
 
