@@ -37,6 +37,7 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=commonlisp&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=swi-prolog&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Systems & Shell**
 
@@ -47,6 +48,7 @@ Computer Science undergrad building full-stack web applications with applied AI.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
