@@ -87,6 +87,10 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pharo Launcher](https://img.shields.io/badge/Pharo_Launcher-000000?style=for-the-badge&logo=pharo&logoColor=white)
 
+**AI / ML Tools**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 ---
 
 ## Projects
