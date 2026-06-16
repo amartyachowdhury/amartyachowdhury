@@ -90,6 +90,7 @@ Computer Science undergrad building full-stack web applications with applied AI.
 
 **AI / ML Tools**
 
+![LM Studio](https://img.shields.io/badge/LM_Studio-1E1E1E?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
