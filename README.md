@@ -65,6 +65,10 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+**Academic / Engineering Tools**
+
+![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=for-the-badge)
+
 ---
 
 ## Projects
