@@ -81,6 +81,7 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![VPython](https://img.shields.io/badge/VPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pharo Launcher](https://img.shields.io/badge/Pharo_Launcher-000000?style=for-the-badge&logo=pharo&logoColor=white)
 
 ---
 
