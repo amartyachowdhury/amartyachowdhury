@@ -36,6 +36,10 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=commonlisp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=for-the-badge)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=swi-prolog&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
