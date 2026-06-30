@@ -12,12 +12,6 @@ Computer Science undergrad building full-stack web applications with applied AI.
 
 ---
 
-## Currently Building
-
-**[ai-financial-agent](https://github.com/amartyachowdhury/ai-financial-agent)** — LLM agent for investment research. Tool-use orchestration over financial data APIs with structured retrieval and multi-step reasoning.
-
----
-
 ## Currently Learning
 
 - **Vue.js** — Composition API, reactive state, component-driven UI architecture
