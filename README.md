@@ -95,19 +95,6 @@ Computer Science undergrad building full-stack web applications with applied AI.
 
 ---
 
-## Projects
-
-| Project | Stack / Description |
-| --- | --- |
-| [**ai-financial-agent**](https://github.com/amartyachowdhury/ai-financial-agent) | LLM agent for investment research and financial data analysis |
-| [**task-tide**](https://github.com/amartyachowdhury/task-tide) | AI-augmented task manager — scheduling logic, to-do CRUD, LLM-assisted productivity features |
-| [**movie-stack**](https://github.com/amartyachowdhury/movie-stack) | React + Flask recommendation engine with layered service architecture |
-| [**Cypress-Application**](https://github.com/amartyachowdhury/Cypress-Application) | Full-stack civic issue tracker — report submission, status workflows, community dashboards |
-| [**clothing-store-dbms**](https://github.com/amartyachowdhury/clothing-store-dbms) | TypeScript DBMS for inventory, orders, and relational schema management |
-| [**100-Days-of-Code**](https://github.com/amartyachowdhury/100-Days-of-Code) | Python CLI utilities and web apps from the 100 Days of Code curriculum |
-
----
-
 ## GitHub Stats
 
 <div align="center">
