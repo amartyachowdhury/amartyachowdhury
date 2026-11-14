@@ -13,7 +13,7 @@
 
 - 📫 Want to reach out?  **DM me on LinkedIn**
 
-- ⚡  **Moving Fast & Breaking things**
+- ⚡  **Motto: Move Fast, Break Things - Fail Fast, Build Again To Make It Stick**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
