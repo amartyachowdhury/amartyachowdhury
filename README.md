@@ -1,25 +1,29 @@
-# Amartya Chowdhury
+<h1 align="center">Hi 👋, I'm Amartya</h1>
+<h3 align="center">CS Student · Full-Stack & AI Systems | CS @ TMU (2027)</h3>
 
-**CS student · full-stack & AI systems**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amartyachowdhury" /> </p>
 
-Toronto, ON · B.Sc. Computer Science, Toronto Metropolitan University (2027)
+- 🔭 I’m currently working on **full-stack web apps with applied AI**
 
----
+- 🌱 I’m currently learning **Vue.js and Laravel**
 
-## About
+- 👯 I’m looking to collaborate on **agent architectures and production-oriented systems**
 
-Computer Science undergrad building full-stack web applications with applied AI. Primary stack: JavaScript/TypeScript frontends, PHP/Laravel backends, PostgreSQL, and Docker. Interested in agent architectures, API design, and production-oriented system patterns.
+- 👨‍💻 All of my projects are available at [github.com/amartyachowdhury](https://github.com/amartyachowdhury)
 
----
+- 💬 Ask me about **JavaScript/TypeScript, PHP/Laravel, PostgreSQL, Docker**
 
-## Currently Learning
+- 📫 How to reach me **DM me on LinkedIn**
 
-- **Vue.js** — Composition API, reactive state, component-driven UI architecture
-- **Laravel** — MVC patterns, Eloquent ORM, routing, and REST API development
+- ⚡ Fun fact **Based in Toronto, building things that ship**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amartya-c-3217a0279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/amartyachowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
 
-## Tech Stack
+<h3 align="left">Languages and Tools:</h3>
 
 **Languages**
 
@@ -93,20 +97,6 @@ Computer Science undergrad building full-stack web applications with applied AI.
 ![LM Studio](https://img.shields.io/badge/LM_Studio-1E1E1E?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyachowdhury&show_icons=true&locale=en&layout=compact" alt="amartyachowdhury" /></p>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amartyachowdhury&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyachowdhury&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amartya-c-3217a0279/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amartyachowdhury)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyachowdhury&show_icons=true&locale=en" alt="amartyachowdhury" /></p>
