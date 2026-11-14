@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/amartyachowdhury](https://github.com/amartyachowdhury)
 
-- 💬 Ask me about **JavaScript/TypeScript, PHP/Laravel, PostgreSQL, Docker**
-
 - 📫 How to reach me **DM me on LinkedIn**
 
-- ⚡ Fun fact **Based in Toronto, building things that ship**
+- ⚡  **Based in Toronto, building things that ship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
