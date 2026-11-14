@@ -13,7 +13,7 @@
 
 - 📫 Want to reach out?  **DM me on LinkedIn**
 
-- ⚡  **Moving Fast; Breaking Things - Fixing Them & Making Them Stick**
+- 😄  **Move Fast; Break Things - Learn Fast; Fix said 'Things'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
