@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amartyachowdhury" /> </p>
 
-- 🔭 I’m currently working on **full-stack web apps with applied AI**
+- 🔭 Working on **full-stack web apps with applied AI**
 
-- 🌱 I’m currently learning **Vue.js and Laravel**
+- 🌱 Learning **Vue.js and Laravel**
 
-- 👯 I’m looking to collaborate on **agent architectures and production-oriented systems**
+- 👯 Looking to collaborate on **agent architectures and production-oriented systems**
 
 - 👨‍💻 All of my projects are available at [github.com/amartyachowdhury](https://github.com/amartyachowdhury)
 
-- 📫 How to reach me **DM me on LinkedIn**
+- 📫 Want to reach out?  **DM me on LinkedIn**
 
-- ⚡  **Based in Toronto, building things that ship**
+- ⚡  **Based in Toronto, CA; moving fast, breaking things 🏃‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
