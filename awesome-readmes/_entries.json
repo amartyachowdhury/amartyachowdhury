@@ -1,0 +1,642 @@
+[
+  {
+    "owner": "Abblix",
+    "repo": "Oidc.Server",
+    "path": ""
+  },
+  {
+    "owner": "ai",
+    "repo": "size-limit",
+    "path": ""
+  },
+  {
+    "owner": "aimeos",
+    "repo": "aimeos-typo3",
+    "path": ""
+  },
+  {
+    "owner": "alichtman",
+    "repo": "shallow-backup",
+    "path": ""
+  },
+  {
+    "owner": "alichtman",
+    "repo": "stronghold",
+    "path": ""
+  },
+  {
+    "owner": "amitmerchant1990",
+    "repo": "electron-markdownify",
+    "path": ""
+  },
+  {
+    "owner": "amplication",
+    "repo": "amplication",
+    "path": ""
+  },
+  {
+    "owner": "AntonioFalcaoJr",
+    "repo": "EventualShop",
+    "path": ""
+  },
+  {
+    "owner": "aregtech",
+    "repo": "areg-sdk",
+    "path": ""
+  },
+  {
+    "owner": "ArmynC",
+    "repo": "ArminC-AutoExec",
+    "path": ""
+  },
+  {
+    "owner": "athityakumar",
+    "repo": "colorls",
+    "path": ""
+  },
+  {
+    "owner": "aurumz-rgb",
+    "repo": "ReviewAid",
+    "path": ""
+  },
+  {
+    "owner": "Bonevane",
+    "repo": "Bridge",
+    "path": ""
+  },
+  {
+    "owner": "brenocq",
+    "repo": "implot3d",
+    "path": ""
+  },
+  {
+    "owner": "CCOSTAN",
+    "repo": "Home-AssistantConfig",
+    "path": ""
+  },
+  {
+    "owner": "choojs",
+    "repo": "choo",
+    "path": ""
+  },
+  {
+    "owner": "chroline",
+    "repo": "well_app",
+    "path": ""
+  },
+  {
+    "owner": "CoffeeIsAllYouNeed",
+    "repo": "Invisible-Driver",
+    "path": ""
+  },
+  {
+    "owner": "create-go-app",
+    "repo": "cli",
+    "path": ""
+  },
+  {
+    "owner": "Day8",
+    "repo": "re-frame",
+    "path": ""
+  },
+  {
+    "owner": "dbt-labs",
+    "repo": "dbt-core",
+    "path": ""
+  },
+  {
+    "owner": "dmunish",
+    "repo": "notecharts",
+    "path": ""
+  },
+  {
+    "owner": "dmunish",
+    "repo": "reach",
+    "path": ""
+  },
+  {
+    "owner": "doomemacs",
+    "repo": "doomemacs",
+    "path": ""
+  },
+  {
+    "owner": "dowjones",
+    "repo": "react-dropdown-tree-select",
+    "path": ""
+  },
+  {
+    "owner": "dsplce-co",
+    "repo": "supabase-plus",
+    "path": ""
+  },
+  {
+    "owner": "dutrevis",
+    "repo": "spark-resources-metrics-plugin",
+    "path": ""
+  },
+  {
+    "owner": "EduardaSRBastos",
+    "repo": "my-essential-toolbox",
+    "path": ""
+  },
+  {
+    "owner": "electrikhq",
+    "repo": "slate",
+    "path": ""
+  },
+  {
+    "owner": "emalderson",
+    "repo": "ThePhish",
+    "path": ""
+  },
+  {
+    "owner": "eylon-44",
+    "repo": "Buzz-OS",
+    "path": ""
+  },
+  {
+    "owner": "feberts",
+    "repo": "python-game-server",
+    "path": ""
+  },
+  {
+    "owner": "FileShot",
+    "repo": "FileShotZKE",
+    "path": ""
+  },
+  {
+    "owner": "github-changelog-generator",
+    "repo": "github-changelog-generator",
+    "path": ""
+  },
+  {
+    "owner": "gitpoint",
+    "repo": "git-point",
+    "path": ""
+  },
+  {
+    "owner": "gofiber",
+    "repo": "fiber",
+    "path": ""
+  },
+  {
+    "owner": "gowebly",
+    "repo": "gowebly",
+    "path": ""
+  },
+  {
+    "owner": "Grigorij-Dudnik",
+    "repo": "Clean-Coder-AI",
+    "path": ""
+  },
+  {
+    "owner": "GTruf",
+    "repo": "Driver-Drowsiness-Detector",
+    "path": ""
+  },
+  {
+    "owner": "gui-cs",
+    "repo": "Terminal.Gui",
+    "path": ""
+  },
+  {
+    "owner": "GyulyVGC",
+    "repo": "sniffnet",
+    "path": ""
+  },
+  {
+    "owner": "haesleinhuepf",
+    "repo": "bia-bob",
+    "path": ""
+  },
+  {
+    "owner": "Hexworks",
+    "repo": "zircon",
+    "path": ""
+  },
+  {
+    "owner": "hmpl-language",
+    "repo": "hmpl",
+    "path": ""
+  },
+  {
+    "owner": "htmlhint",
+    "repo": "HTMLHint",
+    "path": ""
+  },
+  {
+    "owner": "httpie",
+    "repo": "httpie",
+    "path": ""
+  },
+  {
+    "owner": "hywax",
+    "repo": "mafl",
+    "path": ""
+  },
+  {
+    "owner": "IgorAntun",
+    "repo": "node-chat",
+    "path": ""
+  },
+  {
+    "owner": "iharsh234",
+    "repo": "WebApp",
+    "path": ""
+  },
+  {
+    "owner": "ivanperez-keera",
+    "repo": "Yampa",
+    "path": ""
+  },
+  {
+    "owner": "JoyHak",
+    "repo": "MarkdownToBBCode",
+    "path": ""
+  },
+  {
+    "owner": "JoyHak",
+    "repo": "QuickSwitch",
+    "path": ""
+  },
+  {
+    "owner": "karan",
+    "repo": "joe",
+    "path": ""
+  },
+  {
+    "owner": "kopach",
+    "repo": "karma-sabarivka-reporter",
+    "path": ""
+  },
+  {
+    "owner": "L0garithmic",
+    "repo": "FastColabCopy",
+    "path": ""
+  },
+  {
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "path": ""
+  },
+  {
+    "owner": "lobehub",
+    "repo": "sd-webui-lobe-theme",
+    "path": ""
+  },
+  {
+    "owner": "ma-shamshiri",
+    "repo": "Human-Activity-Recognition",
+    "path": ""
+  },
+  {
+    "owner": "ma-shamshiri",
+    "repo": "Pacman-Game",
+    "path": ""
+  },
+  {
+    "owner": "ma-shamshiri",
+    "repo": "Spam-Detector",
+    "path": ""
+  },
+  {
+    "owner": "MananTank",
+    "repo": "radioactive-state",
+    "path": ""
+  },
+  {
+    "owner": "Martinsos",
+    "repo": "edlib",
+    "path": ""
+  },
+  {
+    "owner": "mkosir",
+    "repo": "react-parallax-tilt",
+    "path": ""
+  },
+  {
+    "owner": "NASA",
+    "repo": "ogma",
+    "path": ""
+  },
+  {
+    "owner": "nhn",
+    "repo": "tui.editor",
+    "path": ""
+  },
+  {
+    "owner": "NSRare",
+    "repo": "NSGIF",
+    "path": ""
+  },
+  {
+    "owner": "owloops",
+    "repo": "updo",
+    "path": ""
+  },
+  {
+    "owner": "php-censor",
+    "repo": "php-censor",
+    "path": ""
+  },
+  {
+    "owner": "PlexRipper",
+    "repo": "PlexRipper",
+    "path": ""
+  },
+  {
+    "owner": "PostHog",
+    "repo": "posthog",
+    "path": ""
+  },
+  {
+    "owner": "priyavrat-misra",
+    "repo": "xrays-and-gradcam",
+    "path": ""
+  },
+  {
+    "owner": "Redocly",
+    "repo": "redoc",
+    "path": ""
+  },
+  {
+    "owner": "refinedev",
+    "repo": "refine",
+    "path": ""
+  },
+  {
+    "owner": "release-it",
+    "repo": "release-it",
+    "path": ""
+  },
+  {
+    "owner": "rstacruz",
+    "repo": "hicat",
+    "path": ""
+  },
+  {
+    "owner": "ryanoasis",
+    "repo": "nerd-fonts",
+    "path": ""
+  },
+  {
+    "owner": "sebyddd",
+    "repo": "SDVersion",
+    "path": ""
+  },
+  {
+    "owner": "serpro69",
+    "repo": "kotlin-faker",
+    "path": ""
+  },
+  {
+    "owner": "shama",
+    "repo": "gaze",
+    "path": ""
+  },
+  {
+    "owner": "shivrajsinhzala",
+    "repo": "transit-timetables",
+    "path": ""
+  },
+  {
+    "owner": "shriyanyamali",
+    "repo": "JurisMercatus",
+    "path": ""
+  },
+  {
+    "owner": "sidneycadot",
+    "repo": "oeis",
+    "path": ""
+  },
+  {
+    "owner": "sindresorhus",
+    "repo": "pageres",
+    "path": ""
+  },
+  {
+    "owner": "Skydio",
+    "repo": "revup",
+    "path": ""
+  },
+  {
+    "owner": "sourcerer-io",
+    "repo": "sourcerer-app",
+    "path": ""
+  },
+  {
+    "owner": "sr6033",
+    "repo": "lterm",
+    "path": ""
+  },
+  {
+    "owner": "Stack-in-a-box",
+    "repo": "triumphmayflowerclub.com",
+    "path": ""
+  },
+  {
+    "owner": "stevenfoncken",
+    "repo": "multitool-for-spotify-php",
+    "path": ""
+  },
+  {
+    "owner": "sultan99",
+    "repo": "react-on-lambda",
+    "path": ""
+  },
+  {
+    "owner": "sulu",
+    "repo": "sulu",
+    "path": ""
+  },
+  {
+    "owner": "supunlakmal",
+    "repo": "thismypc",
+    "path": ""
+  },
+  {
+    "owner": "teles",
+    "repo": "array-mixer",
+    "path": ""
+  },
+  {
+    "owner": "thelounge",
+    "repo": "thelounge",
+    "path": ""
+  },
+  {
+    "owner": "themerdev",
+    "repo": "themer",
+    "path": ""
+  },
+  {
+    "owner": "treeverse",
+    "repo": "dvc",
+    "path": ""
+  },
+  {
+    "owner": "vhesener",
+    "repo": "Closures",
+    "path": ""
+  },
+  {
+    "owner": "voltagent",
+    "repo": "voltagent",
+    "path": ""
+  },
+  {
+    "owner": "xnbox",
+    "repo": "DeepfakeHTTP",
+    "path": ""
+  },
+  {
+    "owner": "yeaight7",
+    "repo": "awesome-ai-devtools",
+    "path": ""
+  },
+  {
+    "owner": "yvann-ba",
+    "repo": "ft_transcendence",
+    "path": ""
+  },
+  {
+    "owner": "zenml-io",
+    "repo": "zenml",
+    "path": ""
+  },
+  {
+    "owner": "evanw",
+    "repo": "esbuild",
+    "path": "blob/main/docs/architecture.md"
+  },
+  {
+    "owner": "flutter",
+    "repo": "flutter",
+    "path": "blob/master/docs/about/The-Engine-architecture.md"
+  },
+  {
+    "owner": "torvalds",
+    "repo": "linux",
+    "path": "blob/master/Documentation/crypto/architecture.rst"
+  },
+  {
+    "owner": "neovim",
+    "repo": "neovim",
+    "path": "blob/master/src/nvim/README.md"
+  },
+  {
+    "owner": "ohmyzsh",
+    "repo": "ohmyzsh",
+    "path": "wiki/Design"
+  },
+  {
+    "owner": "redis",
+    "repo": "redis",
+    "path": "blob/unstable/README.md"
+  },
+  {
+    "owner": "tauri-apps",
+    "repo": "tauri",
+    "path": "blob/dev/ARCHITECTURE.md"
+  },
+  {
+    "owner": "microsoft",
+    "repo": "vscode",
+    "path": "wiki/Source-Code-Organization"
+  },
+  {
+    "owner": "dec0dOS",
+    "repo": "amazing-github-template",
+    "path": ""
+  },
+  {
+    "owner": "lheintzmann1",
+    "repo": "github-licenses-stats",
+    "path": ""
+  },
+  {
+    "owner": "f14XuanLv",
+    "repo": "github-pr-stats",
+    "path": ""
+  },
+  {
+    "owner": "stats-organization",
+    "repo": "github-stats-extended",
+    "path": ""
+  },
+  {
+    "owner": "VishwaGauravIn",
+    "repo": "github-profile-readme-maker",
+    "path": ""
+  },
+  {
+    "owner": "sourcerer-io",
+    "repo": "hall-of-fame",
+    "path": ""
+  },
+  {
+    "owner": "jehna",
+    "repo": "readme-best-practices",
+    "path": ""
+  },
+  {
+    "owner": "kefranabg",
+    "repo": "readme-md-generator",
+    "path": ""
+  },
+  {
+    "owner": "DenverCoder1",
+    "repo": "readme-typing-svg",
+    "path": ""
+  },
+  {
+    "owner": "mhucka",
+    "repo": "readmine",
+    "path": ""
+  },
+  {
+    "owner": "RichardLitt",
+    "repo": "standard-readme",
+    "path": ""
+  },
+  {
+    "owner": "Malith-Rukshan",
+    "repo": "telegram-card",
+    "path": ""
+  },
+  {
+    "owner": "cicirello",
+    "repo": "user-statistician",
+    "path": ""
+  },
+  {
+    "owner": "zalando",
+    "repo": "zalando-howto-open-source",
+    "path": "blob/master/READMEtemplate.md"
+  },
+  {
+    "owner": "sindresorhus",
+    "repo": "Gifski",
+    "path": ""
+  },
+  {
+    "owner": "NickeManarin",
+    "repo": "ScreenToGif",
+    "path": ""
+  },
+  {
+    "owner": "faressoft",
+    "repo": "terminalizer",
+    "path": ""
+  },
+  {
+    "owner": "chjj",
+    "repo": "ttystudio",
+    "path": ""
+  },
+  {
+    "owner": "charmbracelet",
+    "repo": "vhs",
+    "path": ""
+  }
+]
