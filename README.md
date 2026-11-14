@@ -23,8 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -38,14 +36,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=swi-prolog&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Systems & Shell**
-
 ![Unix](https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Frameworks**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,22 +46,13 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Databases**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Database Tools**
-
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=for-the-badge&logo=tableplus&logoColor=white)
-
-**Dev Tools**
-
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -81,20 +64,11 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Academic / Engineering Tools**
-
 ![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=for-the-badge)
 ![VPython](https://img.shields.io/badge/VPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pharo Launcher](https://img.shields.io/badge/Pharo_Launcher-000000?style=for-the-badge&logo=pharo&logoColor=white)
-
-**AI / ML Tools**
-
 ![LM Studio](https://img.shields.io/badge/LM_Studio-1E1E1E?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyachowdhury&show_icons=true&locale=en&layout=compact" alt="amartyachowdhury" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyachowdhury&show_icons=true&locale=en" alt="amartyachowdhury" /></p>
