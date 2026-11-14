@@ -13,7 +13,7 @@
 
 - 📫 Want to reach out?  **DM me on LinkedIn**
 
-- ⚡  **Based in Toronto, CA; moving fast, breaking things 🏃‍♂️**
+- ⚡  **Moving Fast & Breaking things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
