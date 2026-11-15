@@ -1,1 +1,0 @@
-[![My Skills](https://skillicons.dev/icons?i=git,github,java,python,cpp,js,html,css,sass,styledcomponents,bootstrap,tailwind,materialui,emotion,flutter,vite,react,redux,nodejs,express,jquery,flask,django,mysql,mongodb,supabase,firebase,aws,postman,codepen,vscode,idea,replit,vercel,netlify)](https://youtube.com/@brajbliss)
