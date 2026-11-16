@@ -30,7 +30,7 @@
 
 <h3 align="left">Frameworks and data:</h3>
 
-![Frameworks, Databases](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=light&perline=12)
+![Frameworks & Databases](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=light&perline=12)
 <!-- ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat) -->
 <!-- ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) -->
 <!-- ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat) -->
