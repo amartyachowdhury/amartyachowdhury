@@ -24,14 +24,13 @@
 <h3 align="left">Languages:</h3>
 
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash&theme=dark&perline=12)
-![Lisp](https://simpleicons.dev/icons?icons=commonlisp&theme=dark)
+![Lisp](https://simpleicons.dev/icons?icons=commonlisp&theme=light)
 <!-- ![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat) -->
 <!-- ![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat) -->
 
 <h3 align="left">Frameworks and data:</h3>
 
-![Frameworks, Databases](https://skillicons.dev/icons?i=react,nodejs,expressjs,flask,django,vuejs,laravel,mongodb,mysql,postgresql&theme=dark&perline=10)
-![Inertia.js and DBeaver](https://simpleicons.dev/icons?icons=inertia,dbeaver&theme=dark&perline=2)
+![Frameworks and data](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=dark&perline=12)
 <!-- ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat) -->
 <!-- ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) -->
 <!-- ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat) -->
