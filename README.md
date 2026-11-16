@@ -9,7 +9,7 @@
 
 - 👯 Looking to collaborate on **agent architectures and production-oriented systems**
 
-- 👨‍💻 All of my projects are available at [github.com/amartyachowdhury](https://github.com/amartyachowdhury)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/amartyachowdhury)
 
 - 📫 Want to reach out?  **DM me on [LinkedIn](https://www.linkedin.com/in/amartya-c-3217a0279/)**
 
