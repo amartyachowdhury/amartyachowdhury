@@ -21,7 +21,23 @@
 <a href="https://github.com/amartyachowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Stack:</h3>
+<h3 align="left">Languages:</h3>
 
-![Stack](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash,react,nodejs,expressjs,flask,django,vuejs,laravel,mongodb,mysql,postgresql,anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=dark&perline=8)
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash&theme=dark&perline=12)
+
+<h3 align="left">Frameworks:</h3>
+
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,flask,django,vuejs,laravel&theme=dark&perline=7)
+
+<h3 align="left">Data:</h3>
+
+![Data](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3)
+
+<h3 align="left">Editors:</h3>
+
+![Editors](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion&theme=dark&perline=8)
+
+<h3 align="left">Tools:</h3>
+
+![Tools](https://skillicons.dev/icons?i=docker&theme=dark&perline=1)
 
