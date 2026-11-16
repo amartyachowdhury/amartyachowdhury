@@ -23,22 +23,22 @@
 
 <h3 align="left">Languages:</h3>
 
-![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash&theme=dark&perline=12)
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash&theme=light&perline=12)
 ![Lisp](https://simpleicons.dev/icons?icons=commonlisp&theme=light)
 <!-- ![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat) -->
 <!-- ![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat) -->
 
 <h3 align="left">Frameworks and data:</h3>
 
-![Frameworks and data](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=dark&perline=12)
+![Frameworks, Databases](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=light&perline=12)
 <!-- ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat) -->
 <!-- ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) -->
 <!-- ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat) -->
 
 <h3 align="left">Editors and tools:</h3>
 
-![Editors and tools](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=dark&perline=9)
-![Spyder, Cursor, Ollama, and LM Studio](https://simpleicons.dev/icons?icons=spyderide,cursor,ollama,lmstudio&theme=dark&perline=4)
+![Editors and tools](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=light&perline=9)
+![Spyder, Cursor, Ollama, and LM Studio](https://simpleicons.dev/icons?icons=spyderide,cursor,ollama,lmstudio&theme=light&perline=4)
 
 <!--
 <h3 align="left">Course tools:</h3>
