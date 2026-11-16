@@ -24,20 +24,31 @@
 <h3 align="left">Languages:</h3>
 
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash&theme=dark&perline=12)
+![Lisp](https://simpleicons.dev/icons?icons=commonlisp&theme=dark)
+<!-- ![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat) -->
+<!-- ![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat) -->
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks and data:</h3>
 
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,expressjs,flask,django,vuejs,laravel&theme=dark&perline=7)
+![Frameworks, Databases](https://skillicons.dev/icons?i=react,nodejs,expressjs,flask,django,vuejs,laravel,mongodb,mysql,postgresql&theme=dark&perline=10)
+![Inertia.js and DBeaver](https://simpleicons.dev/icons?icons=inertia,dbeaver&theme=dark&perline=2)
+<!-- ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat) -->
+<!-- ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) -->
+<!-- ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat) -->
 
-<h3 align="left">Data:</h3>
+<h3 align="left">Editors and tools:</h3>
 
-![Data](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3)
+![Editors and tools](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=dark&perline=9)
+![Spyder, Cursor, Ollama, and LM Studio](https://simpleicons.dev/icons?icons=spyderide,cursor,ollama,lmstudio&theme=dark&perline=4)
 
-<h3 align="left">Editors:</h3>
+<!--
+<h3 align="left">Course tools:</h3>
 
-![Editors](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion&theme=dark&perline=8)
+![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=flat)
+![VPython](https://img.shields.io/badge/VPython-3776AB?style=flat)
+![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=flat)
+![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=flat)
+![Pharo Launcher](https://img.shields.io/badge/Pharo_Launcher-000000?style=flat)
+--> 
 
-<h3 align="left">Tools:</h3>
-
-![Tools](https://skillicons.dev/icons?i=docker&theme=dark&perline=1)
 
