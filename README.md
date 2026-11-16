@@ -35,7 +35,7 @@
 <!-- ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) -->
 <!-- ![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat) -->
 
-<h3 align="left">Editors and tools:</h3>
+<h3 align="left">Editors & Tools:</h3>
 
 ![Editors and tools](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=light&perline=9)
 ![Spyder, Cursor, Ollama, and LM Studio](https://simpleicons.dev/icons?icons=spyderide,cursor,ollama,lmstudio&theme=light&perline=4)
