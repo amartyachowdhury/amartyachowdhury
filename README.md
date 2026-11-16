@@ -28,7 +28,7 @@
 <!-- ![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat) -->
 <!-- ![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat) -->
 
-<h3 align="left">Frameworks and data:</h3>
+<h3 align="left">Frameworks & Databases:</h3>
 
 ![Frameworks & Databases](https://simpleicons.dev/icons?icons=react,nodedotjs,express,flask,django,vuedotjs,laravel,mongodb,mysql,postgresql,inertia,dbeaver&theme=light&perline=12)
 <!-- ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat) -->
