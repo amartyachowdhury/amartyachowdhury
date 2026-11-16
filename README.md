@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/amartyachowdhury](https://github.com/amartyachowdhury)
 
-- 📫 Want to reach out?  **DM me on LinkedIn**
+- 📫 Want to reach out?  **DM me on [LinkedIn](https://www.linkedin.com/in/amartya-c-3217a0279/)**
 
 - 😄  **Move Fast; Break Things - Learn Fast; Fix said 'Things'**
 
