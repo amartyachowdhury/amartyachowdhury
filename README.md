@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amartya</h1>
-<h3 align="center">Full-Stack & AI Systems | CS @ TMU (2027)</h3>
+<h3 align="center">Full-Stack & AI Systems | CS @ TMU </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="amartyachowdhury" /> </p>
 
@@ -21,69 +21,7 @@
 <a href="https://github.com/amartyachowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Stack:</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Lisp](https://img.shields.io/badge/Lisp-000000?style=flat&logo=commonlisp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Smalltalk](https://img.shields.io/badge/Smalltalk-596706?style=flat)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat&logo=swi-prolog&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-<h3 align="left">Frameworks:</h3>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-<h3 align="left">Data:</h3>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
-![TablePlus](https://img.shields.io/badge/TablePlus-127CD8?style=flat&logo=tableplus&logoColor=white)
-
-<h3 align="left">Editors:</h3>
-
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyderide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-
-<h3 align="left">Course tools:</h3>
-
-![Logisim](https://img.shields.io/badge/Logisim-C41E3A?style=flat)
-![VPython](https://img.shields.io/badge/VPython-3776AB?style=flat&logo=python&logoColor=white)
-![GlowScript](https://img.shields.io/badge/GlowScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![ARC Simulator](https://img.shields.io/badge/ARC_Simulator-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Pharo Launcher](https://img.shields.io/badge/Pharo_Launcher-000000?style=flat&logo=pharo&logoColor=white)
-
-<h3 align="left">Tools:</h3>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-1E1E1E?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Stack](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,elixir,haskell,rust,php,linux,bash,react,nodejs,expressjs,flask,django,vuejs,laravel,mongodb,mysql,postgresql,anaconda,vscode,pycharm,idea,eclipse,emacs,vim,clion,docker&theme=dark&perline=8)
 
